@@ -2,8 +2,8 @@
 layout: page
 title:  "Rust语言99篇重要博文"
 tagline: "Rust Language 99 Blog Artikel"
-date:   2019-08-29 15:24:35 +0200
-tags: [Rust, Rustlang, crates, packages, tools]
+date:   2019-09-05 15:24:35 +0200
+tags: [Rust, Rustlang, blog, artikel]
 categories: rust
 ---
 
