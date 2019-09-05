@@ -36,7 +36,7 @@ categories: rust
 - [Rust Tutorial](http://aml3.github.io/RustTutorial/html/toc.html) >>> [Source Code](https://github.com/aml3/RustTutorial)
 - [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/) >>> [Source Code](https://github.com/rust-unofficial/too-many-lists)
 
-### 第三方专题图书
+### 第三方专题图书和论文
 - ⭐[Rust-101](https://www.ralfj.de/projects/rust-101/main.html) >>> [Source Code](https://github.com/RalfJung/rust-101)
 - [Rust and WebAssembly](https://rustwasm.github.io/docs/book/) >>> [Source Code](https://github.com/rustwasm/book)
 - [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/index.html)
@@ -44,5 +44,8 @@ categories: rust
 - [RUST : ERROR HANDLING](https://blog.burntsushi.net/rust-error-handling/)
 - [Rust Anthology](https://brson.github.io/rust-anthology/1/intro.html) >>> [Source Code](https://github.com/brson/rust-anthology)
 - [Introduction to Rust Web Applications](https://erwabook.com/intro/)
+- [Scientific computing: a Rust adventure](https://www.lpalmieri.com/posts/2019-02-23-scientific-computing-a-rust-adventure-part-0-vectors/)
+- [Introducing the Rust crash course](https://www.snoyman.com/blog/2018/10/introducing-rust-crash-course)
 - PDF [Verification of Rust Generics, Typestates, and Traits](https://ethz.ch/content/dam/ethz/special-interest/infk/chair-program-method/pm/documents/Education/Theses/Matthias_Erdin_MA_report.pdf)
 - PDF [Why Rust?](https://www.oreilly.com/programming/free/files/why-rust.pdf)
+- PDF [Automated Refactoring of Rust Programs](http://homepages.mcs.vuw.ac.nz/~alex/files/SamCameronPotaninACSC2017.pdf)
