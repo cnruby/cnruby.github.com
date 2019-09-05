@@ -45,6 +45,7 @@ categories: rust
 - [Rust Anthology](https://brson.github.io/rust-anthology/1/intro.html) >>> [Source Code](https://github.com/brson/rust-anthology)
 - [Introduction to Rust Web Applications](https://erwabook.com/intro/)
 - [Scientific computing: a Rust adventure](https://www.lpalmieri.com/posts/2019-02-23-scientific-computing-a-rust-adventure-part-0-vectors/)
+- [failure](https://boats.gitlab.io/failure/intro.html)
 - [Introducing the Rust crash course](https://www.snoyman.com/blog/2018/10/introducing-rust-crash-course)
 - PDF [Verification of Rust Generics, Typestates, and Traits](https://ethz.ch/content/dam/ethz/special-interest/infk/chair-program-method/pm/documents/Education/Theses/Matthias_Erdin_MA_report.pdf)
 - PDF [Why Rust?](https://www.oreilly.com/programming/free/files/why-rust.pdf)
