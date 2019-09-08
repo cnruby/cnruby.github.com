@@ -3,8 +3,8 @@ layout: post
 title: "创建基于jekyll框架的GitHub.com博客"
 tagline: "Create a Blog in GitHub.com with jekyll"
 description: ""
-category: ""
-tags: []
+tags: [jekyll, blog, tool, GitHub]
+category: tools
 ---
 {% include JB/setup %}
 

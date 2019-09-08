@@ -51,3 +51,4 @@ categories: rust
 - PDF [Verification of Rust Generics, Typestates, and Traits](https://ethz.ch/content/dam/ethz/special-interest/infk/chair-program-method/pm/documents/Education/Theses/Matthias_Erdin_MA_report.pdf)
 - PDF [Why Rust?](https://www.oreilly.com/programming/free/files/why-rust.pdf)
 - PDF [Automated Refactoring of Rust Programs](http://homepages.mcs.vuw.ac.nz/~alex/files/SamCameronPotaninACSC2017.pdf)
+- PDF [Writing Network Drivers in Rust](https://www.net.in.tum.de/fileadmin/bibtex/publications/theses/2018-ixy-rust.pdf)
