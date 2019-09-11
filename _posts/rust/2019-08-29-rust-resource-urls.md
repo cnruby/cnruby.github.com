@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Rust语言资料信息"
-tagline: "Rust Language Resource Links"
+tagline: "</br>Rust Language Resource Links"
 date:   2019-08-29 15:24:35 +0200
 tags: [Rust, Rustlang, awesome, resources]
 categories: rust

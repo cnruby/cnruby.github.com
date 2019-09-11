@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Rust语言在线书籍"
-tagline: "Rust Language Online Books"
+tagline: "</br>Rust Language Online Books"
 date:   2019-08-28 15:24:35 +0200
 tags: [Rust, Rustlang, Online, Books]
 categories: rust
