@@ -36,6 +36,8 @@ categories: rust
 - [Rust Tutorial](http://aml3.github.io/RustTutorial/html/toc.html) >>> [Source Code](https://github.com/aml3/RustTutorial)
 - [Learning Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists/) >>> [Source Code](https://github.com/rust-unofficial/too-many-lists)
 - [Rust三天简易教程](https://www.yuque.com/progfun/rust/tss53d)
+- [Rust 学习指南](https://www.codemore.top/p/1149accd-b4b3-3643-a4ce-994110faf023/)
+- [Rust学习笔记](https://skyao.io/learning-rust/)
 
 ### 第三方专题图书和论文
 - ⭐[Rust-101](https://www.ralfj.de/projects/rust-101/main.html) >>> [Source Code](https://github.com/RalfJung/rust-101)
