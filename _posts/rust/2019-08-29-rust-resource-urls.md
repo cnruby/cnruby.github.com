@@ -27,3 +27,7 @@ categories: rust
 - ⭐[Programmieren in Rust](https://www.youtube.com/watch?v=lQ36K1htRDY&list=PL0Ur-09iGhpwMbNiVTBeHmIjs0GuIXhNg) [GitHub.com](https://github.com/LukasKalbertodt/programmieren-in-rust)
 - [Videos about Rust](https://daily-rust.github.io/2016/09/01/videos.html)
 - [Rustlang Screencasts](https://www.youtube.com/playlist?list=PLTOeCUgrkpMNEHx6j0vCH0cuyAIVZadnc)
+
+### Others
+- [Are we (I)DE yet?](https://areweideyet.com/)
+- [Learn Git Branching](https://learngitbranching.js.org/)
