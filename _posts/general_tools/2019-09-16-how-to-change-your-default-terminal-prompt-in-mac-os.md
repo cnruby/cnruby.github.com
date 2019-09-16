@@ -7,6 +7,7 @@ tags: [MacOS, Terminal, Prompt, Default, Tool]
 categories: rust
 ---
 
+### 终端命令
 ```bash
 echo "export PS1='~.~$ '" >> ~/.profile
 . ~/.profile

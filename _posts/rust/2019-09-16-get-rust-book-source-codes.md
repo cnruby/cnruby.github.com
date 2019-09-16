@@ -7,6 +7,7 @@ tags: [Rust, Rustlang, Book, Source, Codes]
 categories: rust
 ---
 
+### 终端命令
 ```bash
 git clone https://github.com/rust-lang/book.git
 cd book
@@ -14,6 +15,7 @@ git checkout -b extract-files
 ls listings/
 ```
 
+### 结果显示
 ![assets](/assets/images/get-rust-book-source-codes.png)
 
 ### 参考资料
