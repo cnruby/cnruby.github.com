@@ -11,7 +11,7 @@ categories: rust
 ```bash
 git clone https://github.com/rust-lang/book.git
 cd book
-git checkout -b extract-files
+git checkout extract-files
 ls listings/
 ```
 
