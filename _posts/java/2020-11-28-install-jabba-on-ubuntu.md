@@ -28,7 +28,7 @@ jabba install zulu@1.11.0-9
 echo "zulu@1.8.272" > .jabbarc
 cat .jabbarc
 jabba use
-#ONLY
+#ONLY the follow command, NOT `java --version`
 java -version
 echo $JAVA_HOME
 type java
