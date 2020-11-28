@@ -9,7 +9,7 @@ rouge: true
 # so be sure to set them if your theme uses them.
 #
 title : 道喜技术日记 .^. Rust语言之道
-tagline: 关注Rust, C/C++, Java和Ruby语言新闻、工具、软件包和技术报道等。
+tagline: 关注Rust,C/C++,Java和Ruby语言技术。
 author :
   name : Gudao Luo / 骆古道
   email : Gudao.Luo@gmail.com
