@@ -1,0 +1,25 @@
+# INSTALL
+## install magic-wormhole on computer 
+- https://github.com/magic-wormhole/magic-wormhole
+- https://magic-wormhole.readthedocs.io/en/latest/welcome.html
+
+## install magic-wormhole on android
+- https://github.com/pavelsof/mobile-wormhole
+- https://play.google.com/store/apps/details?id=com.pavelsof.wormhole
+
+# USE
+## use to send file on computer
+```
+wormhole send Maperitive-1000.zip
+Sending 3.7 MB file named 'Maperitive-1000.zip'
+On the other computer, please run: wormhole receive
+Wormhole code is: 7-virginia-drumbeat
+(This is a example code)
+```
+
+## use to receice file on Android
+- click the button 'receice'
+- enter Wormhole code is: 7-virginia-drumbeat
+(This is a example code)
+- click the button 'connected'
+- click the button 'accept'
